@@ -13,7 +13,7 @@ This is a basic cookbook for building command-line tools:
 
 
 ## Why is a Containerized CLI so Useful?
-Containerization of a CLI can add significant value in various ways. Here are three reasons why:
+Containerization of a CLI can add significant value in various ways. Here are five reasons why:
 
    * Portability: A containerized CLI is designed to be portable, making it easier to run on any machine with the same environment. This portability eliminates the need for users to install dependencies or configure the environment, making it simpler to distribute the tool and reduce any compatibility issues.
 
